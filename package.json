@@ -1,0 +1,11 @@
+{
+  "name": "Moji",
+  "version": "0.8.0",
+  "description": "it is String Utility Module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arakaki-Yuji",
+  "license": "ISC"
+}
