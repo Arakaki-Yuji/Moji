@@ -1,6 +1,6 @@
 {
-  "name": "Moji",
-  "version": "0.8.0",
+  "name": "moji-util",
+  "version": "0.6.0",
   "description": "it is String Utility Module.",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Arakaki-Yuji",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Arakaki-Yuji/Moji.git"
+    "url": "git@github.com:Arakaki-Yuji/moji-util.git"
   },
   "license": "ISC",
   "devDependencies": {

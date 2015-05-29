@@ -1,2 +1,2 @@
-# Moji
-Moji is String Utility Module for JavaScript
+# moji-util
+moji-util is String Utility Module for JavaScript
