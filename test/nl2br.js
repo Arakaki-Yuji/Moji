@@ -7,9 +7,6 @@ describe('Moji', function () {
             assert.equal(Moji.nl2br('Hello\nWorld'), 'Hello<br />World');
             assert.equal(Moji.nl2br('Hello\rWorld'), 'Hello<br />World');
             assert.equal(Moji.nl2br('Hello\r\nWorld'), 'Hello<br />World');
-            moji = "Hello\
-World";
-            assert.equal(Moji.nl2br(moji, 'Hello<br />World'));
         });
     });
 });
