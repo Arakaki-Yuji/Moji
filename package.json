@@ -1,6 +1,6 @@
 {
   "name": "moji-util",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "it is String Utility Module.",
   "main": "lib/index.js",
   "scripts": {
